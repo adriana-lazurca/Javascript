@@ -1,4 +1,4 @@
-# Javascript
+# Chatbot
 
 ### Welcome to the webpage of our chatbot!
 
